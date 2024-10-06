@@ -5,14 +5,14 @@
 
 ### Installation
 
-Require PHP 7.*^
-Require MySQL
+- Require PHP 7.*^
+- Require MySQL
 
 ```sh
 $ git clone https://github.com/fiankurniawan4/movies.git
 $ cd movies
 ```
-Rename .env.example
+- Rename .env.example to .env
 
 ```sh
 $ php artisan key:generate
