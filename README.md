@@ -7,6 +7,7 @@
 
 - Require PHP 7.*^
 - Require MySQL
+- phpMyAdmin (create database with name laravel5)
 
 ```sh
 $ git clone https://github.com/fiankurniawan4/movies.git
